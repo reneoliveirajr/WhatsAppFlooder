@@ -3,7 +3,7 @@ The WhatsAppFlooder is a script written in JavaScript that is designed to aggres
 
 ## How to use these scripts
 
- ==**CAUTION**: Before sending the flood, disable the internet on your cellphone. And after the flood, clean the chat messages using Web WhatsApp before turning on the internet on your cellphone again.== 
+`CAUTION: Before sending the flood, disable the internet on your cellphone. And after the flood, clean the chat messages using Web WhatsApp before turning on the internet on your cellphone again.`
 
 1. Open WhatsApp Web using the official link: [WhatsApp Web](https://web.whatsapp.com/).
 2. Log in to your WhatsApp account.
