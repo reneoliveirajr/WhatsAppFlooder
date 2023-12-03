@@ -3,23 +3,20 @@ The WhatsAppFlooder is a script written in JavaScript that is designed to aggres
 
 ## How to use these scripts
 
-1. Open WhatsApp Web using the official link: [WhatsApp Web](https://web.whatsapp.com/)
+1. Open WhatsApp Web using the official link: [WhatsApp Web](https://web.whatsapp.com/).
 2. Log in to your WhatsApp account.
 3. Disable the internet on your mobile phone (to prevent sending messages to your own phone).
 4. Click on the chat that you want to flood.
-5. Open the browser console utility.
-6. Visit this repository page ([WhatsAppFlooder](https://github.com/reneoliveirajr/WhatsAppFlooder)), select your desired flood script, and click to view the code.
-7. Copy the script code content using Ctrl + C.
-8. Return to the browser where WhatsApp Web is open with the Console Utility.
-9. Paste the script code and enjoy the flood.
+5. Open the browser console utility (Ctrl+Shift+J (Windows, Linux) or Command+Option+J (macOS)).
+6. Visit this repository page ([WhatsAppFlooder](https://github.com/reneoliveirajr/WhatsAppFlooder)) on GitHub by entering the URL in your browser.
+7. Select your desired flood script from the repository's list of files.
+8. Click on the script file to view its code.
+9. Press Ctrl + A to select all of the script code.
+10. Copy the selected code using Ctrl + C.
+11. Return to the browser where WhatsApp Web is open with the Console Utility.
+12. Paste the copied script code (Ctrl + V) into the console and enjoy the flood!
 
-## FAQ
-
-### How do I open the Browser Console Utility?
-
-- To open the Console, press Ctrl+Shift+J (Windows, Linux) or Command+Option+J (macOS)
-
-### Why this script is better than others?
+## Why this script is better than others?
 
 - More aggressive! Send more messages in less time!
 - Code with fine-tunings that make the same operations faster (less memory and processing usage) to compensate for the enhanced aggressiveness of the attack.
