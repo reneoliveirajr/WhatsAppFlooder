@@ -37,10 +37,10 @@ async function sendFlood(floodContent) {
 }
 
 sendFlood(`
-# Your flood content below
-
-# Line 1
-# Line 2
-# Line 3
+Your flood content here and below...
+Line 2
+Line 3
+Line 4
+Line X
 
 `).catch(console.error);
