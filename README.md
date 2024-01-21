@@ -1,5 +1,23 @@
 # WhatsAppFlooder
-The WhatsAppFlooder is a script written in JavaScript that is designed to aggressively send a flood of messages to a WhatsApp account. The main objective is to fight back against spammers, phishers, and others who bother us.
+The WhatsAppFlooder is a script written in JavaScript that is designed to aggressively send a flood of messages to a WhatsApp account.
+
+## Legal Warning
+
+This script, "WhatsAppFlooder", is provided for educational and ethical testing purposes only. The primary intent is to educate individuals about the potential vulnerabilities and security measures in digital communication systems, particularly within the WhatsApp messaging platform.
+
+By using this script, you agree to adhere to the following conditions:
+
+1. **Educational Use Only**: The script must only be used in a controlled, safe, and consensual environment. It is intended for educational purposes to demonstrate the impact of flooding attacks and to test system robustness.
+
+2. **Consent is Key**: You must have explicit permission from all parties involved before using this script on any WhatsApp account or chat. Using this script without consent is unethical and may be illegal in your jurisdiction.
+
+3. **No Malicious Intent**: The script should not be used for harmful, illegal, or unethical purposes such as harassment, spamming, or any form of unauthorized intrusion.
+
+4. **Legal Compliance**: Users are responsible for ensuring that their use of the script complies with all relevant laws and regulations in their jurisdiction. This includes laws related to data protection, privacy, and electronic communications.
+
+5. **Liability**: The creators and contributors of the WhatsAppFlooder script will not be liable for any misuse of the script or for any damage, loss, or legal consequences that result from such misuse.
+
+By downloading, copying, or using this script, you acknowledge that you understand the ethical and legal implications and agree to use it responsibly. Misuse of this script is strictly against the terms of use and may result in legal action.
 
 ## How to use these scripts
 
